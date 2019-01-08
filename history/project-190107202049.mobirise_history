@@ -1,0 +1,1565 @@
+{
+  "settings": {
+    "name": " architecture space",
+    "currentPage": " architecture space.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {},
+      "additionalSetColors": [
+        "#2c2c2c",
+        "#e6f608",
+        "#9e9c9c"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.8.10",
+    "siteFonts": [],
+    "uniqCompNum": 64,
+    "versionPublish": "4.8.10",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "on",
+    "favicon": "@PROJECT_PATH@/assets/images/2013foto-128x171-2.png",
+    "noImageResize": "",
+    "google-analytics": "",
+    "siteUrl": "undefined",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    " architecture space.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "showBullets": true,
+            "bgColor": "#ffffff",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/18-08-1920x1222.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "RESIDENTIONAL COMPAUD_K18-18A",
+                "contentAlign": "left",
+                "text": "Архитектурно-градостроительное решение объекта капитального строительства \"3-й жилой комплекс: корпуса 18,18А (1-й этап 2-ой очереди реконструкции)\" \n<br>Москва, ЗАО, Фили-Давыдково, кварталы 1 и 2 Давыдково р-на Фили-Давыдково \n<br><br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"assets/files/2018_БУКЛЕТ_18-18А.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-video mbr-iconfont mbr-iconfont-btn\"></span></a> "
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/novovogankovskaya-01-2000x1452.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Novovogankovskaya",
+                "contentAlign": "right",
+                "text": "<a href=\"assets/files/16_ 05_26 03 14 _Novovagankovskaya л16 Р_2-2 (1).pdf\" target=\"_blank\">Подготовка предпроектного предложения, разработка рабочей документации (BIM LOD 300);\n</a><br><a href=\"assets/files/16_ 05_26 03 14 _Novovagankovskaya л16 Р_2-2 (1).pdf\" target=\"_blank\">Проект реконструкции Административного здания, по адресу: г.Москва, ЦАО, Нововаганьковский пер., д.3, стр.2.</a>",
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"assets/files/Б_01_Нововоганьковская.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"></a>",
+                "overlay": true,
+                "overlayOpacity": "0"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/1-2-1920x1080.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Входные группы",
+                "contentAlign": "center",
+                "text": "Архитектурно-планировочные решения 2-го жилого комплекса корпусов 15, 16 и подземной двух уровневой автостоянки корпуса 16А по адресу г. Москва, ЗАО, квартал 1-2 Фили-Давыдково",
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"assets/files/2018.12_БУКЛЕТ_15-16-16А.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"></a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dolgoprudniy-park-1-01-variant-2000x1353.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "<a href=\"assets/files/B_Dolgoprudniy.pdf\" target=\"_blank\" class=\"text-warning\">Парк в Долгопрудном</a>",
+                "contentAlign": "right",
+                "text": "<a href=\"assets/files/B_Dolgoprudniy.pdf\" target=\"_blank\">Парк в Долгопрудном\n</a><br><a href=\"assets/files/B_Dolgoprudniy.pdf\" target=\"_blank\">Благоустройство береговой зоны Канала им. Москвы, проходящего по территории городского\n</a><br><a href=\"assets/files/B_Dolgoprudniy.pdf\" target=\"_blank\">округа Долгопрудный, Московской области\n</a><br><a href=\"assets/files/B_Dolgoprudniy.pdf\" target=\"_blank\">Обязанности: Презентация_\n</a><br><a href=\"assets/files/B_Dolgoprudniy.pdf\" target=\"_blank\">Эскизное предложение входной группы и главной аллеи; выпуск презентации_Revit BIM LOD 200,Photoshop&nbsp;</a><br>",
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"assets/files/B_Dolgoprudniy.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"></a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/enscape-2018-12-30-18-59-3-2000x1125.png",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "<span style=\"font-weight: normal;\">\"Комбинат бытового обслуживания свспомогательными функциями\"</span>",
+                "contentAlign": "right",
+                "text": "ДРАФТ ПРЕЗЕНТАЦИИ.\n<br>Архитектурно-градостроительное решение объекта капитального строительства\n<br>концептуальное моделирование(мастеринг), координация,..на этапе согласования АГР и ПРОЕКТ.)",
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/15-16-2-03-28-11-2017-1985x1404.png",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "RESIDENTIONAL COMPAUD_K15-16-16A",
+                "contentAlign": "right",
+                "text": "<br>Архитектурно-планировочные решения 2-го жилого комплекса корпусов 15, 16 и подземной двух уровневой автостоянки корпуса 16А по адресу г. Москва, ЗАО, квартал 1-2 Фили-Давыдково\n<br>Предварительная концепция ландшафтного дизайна 2-го жилого комплекса: корпус 15-16; 16А Фили – Давыдково<b><br></b>",
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"assets/files/2018.12_БУКЛЕТ_15-16-16А.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"></a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/my-version-megacod-1024x674.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": ".",
+                "contentAlign": "right",
+                "text": "&nbsp;Cитуационный центр Единого центра обработки данных\n<br>(МегаЦОД)",
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/060-12-11-2-2000x1413.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": ".",
+                "contentAlign": "right",
+                "text": "<a href=\"assets/files/BI_Kislovodck.pdf\" target=\"_blank\" class=\"text-warning\">ДРАФТ ПРЕЗЕНТАЦИЯ.\n</a><br><a href=\"assets/files/BI_Kislovodck.pdf\" target=\"_blank\" class=\"text-warning\">МИНКАВКАЗ г. Кисловодск\n</a><br><a href=\"assets/files/BI_Kislovodck.pdf\" target=\"_blank\" class=\"text-warning\">Конгресс –холл «Россия»\n</a><br><a href=\"assets/files/BI_Kislovodck.pdf\" target=\"_blank\" class=\"text-warning\">Концептуальные решения по реновации кинотеатра «Россия», расположенного по адресу Ставропольский край, г. Кисловодск, проспект Победы, 4\n</a><br><a href=\"assets/files/BI_Kislovodck.pdf\" target=\"_blank\" class=\"text-warning\">(концептуальное моделирование(мастеринг), координация ..)</a>",
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a>",
+                "overlay": true,
+                "overlayOpacity": "0"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/17.11.2017-0-32-11-1920x1080.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "RESIDENTIONAL COMPAUD_K15-16-16A",
+                "contentAlign": "right",
+                "text": "<br><a href=\"assets/files/Б_15_БЛАГОУСТРОЙСТВО.pdf\" target=\"_blank\">Предварительная концепция ландшафтного дизайна 2-го жилого комплекса: корпус 15-16-16A; </a><br><a href=\"assets/files/Б_15_БЛАГОУСТРОЙСТВО.pdf\" target=\"_blank\">&nbsp;Фили – Давыдково.</a>",
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"assets/files/Б_15_БЛАГОУСТРОЙСТВО.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"></a>",
+                "overlay": true,
+                "overlayOpacity": "0"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/02-4k-2000x968.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "• 4 корпус - Административно-делового комплекса по адресу:\n<div>ул. Летниковская, 10. 30 тыс.м, 12.2006-2007 2008\n</div><div>здание введено в эксплуатацию</div>",
+                "contentAlign": "right",
+                "text": "Должностные обязанности:\n<br>    Корректировка планов, разработка новой презентации Фасадов по желанию заказчика с подготовкой ТЗ на разработку фасадных конструкций  на этапе строительства и стадии РД\n<br>    презентация общественных зон и входных групп;&nbsp;<br>",
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"assets/files/Б_4 КОРПУС 2007-2008.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"></a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/4-3-4-6-2-1704x675.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "<a href=\"assets/files/1- 2 квартал.pdf\" target=\"_blank\">Южная зона квартала \n</a><div><a href=\"assets/files/1- 2 квартал.pdf\" target=\"_blank\">1-2 района Фили-Давыдково</a></div>",
+                "contentAlign": "right",
+                "text": "<br><a href=\"assets/files/1- 2 квартал.pdf\" target=\"_blank\">Данные параметры являются возможными для строительства Южной зоны квартала 1-2 района Фили-Давыдково в соответствии с действующей градостроительной документацией, с учетом имеющих градостроительных ограничений и городских программ.\n</a><br><a href=\"assets/files/1- 2 квартал.pdf\" target=\"_blank\">«Квартал Триумфальный» – проект уникальной комплексной застройки жилых кварталов современной Москвы, в состав которого входит ЖК «Три-умфальный», современный жилой комплекс класса «бизнес+». ЖК «Триум-фальный» — это не только квартира, это стиль жизни и среда обитания.\n</a><br><a href=\"assets/files/1- 2 квартал.pdf\" target=\"_blank\">Плотность застройки 25 000 кв. м/га\n</a><br><a href=\"assets/files/1- 2 квартал.pdf\" target=\"_blank\">Высота 55 м\n</a><br><a href=\"assets/files/1- 2 квартал.pdf\" target=\"_blank\">Процент застроенности\n</a><br><a href=\"assets/files/1- 2 квартал.pdf\" target=\"_blank\">Участок 3 (№49 по ППМ №168-ПП от 07.09.2004) Участок 4 (№29 и 35 по ППМ №618-ПП от 7.09.2004) Участок 6 (№37 по ППМ №618-ПП от 7.09.2004)\n</a><br><a href=\"assets/files/1- 2 квартал.pdf\" target=\"_blank\">\n</a><br><a href=\"assets/files/1- 2 квартал.pdf\" target=\"_blank\">концептуальное моделирование(мастеринг), координация).</a><br>",
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"assets/files/1-%202%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"></a>"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-8",
+          "_styles": {
+            "H1": {
+              "color": "#e6f608",
+              "font-size": "25px",
+              "text-align": "right"
+            },
+            "P": {
+              "text-align": "right",
+              "color": "#e6f608",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-size": "16px"
+            },
+            "SPAN": {
+              "font-size": "25px",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "color": "#e6f608"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "left",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-article P": {
+              "text-align": "left"
+            },
+            ".mbr-article BLOCKQUOTE": {
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+            },
+            ".mbr-header .mbr-header__text SPAN": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/bridge-2000x1125-68.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#27aae0",
+            "overlayOpacity": "0.8"
+          },
+          "title": "<br><span style=\"font-weight: normal;\">2015-2018</span>",
+          "text": "<blockquote>//.</blockquote>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Тема"
+          ],
+          "meta": "",
+          "_name": "content5",
+          "_customCSS": ".mbr-article { text-align: justify; }",
+          "_anchor": "content5-1e"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "fullWidth": false,
+            "noGutter": false,
+            "showText": true,
+            "showBullets": true,
+            "images": [
+              {
+                "caption": "<a href=\"assets/files/2018.12_2В_БУКЛЕТ_15-16-16А.pdf\" target=\"_blank\" class=\"text-warning\"><b>RESIDENTIONAL COMPAUD_K15-16-16A</b></a>",
+                "thumb": "@PROJECT_PATH@/assets/images/21-2-4-1920x1080-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/21-2-4-1920x1080.jpg",
+                "active": true,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "caption": "<a href=\"assets/files/%D0%91_15_%D0%91%D0%9B%D0%90%D0%93%D0%9E%D0%A3%D0%A1%D0%A2%D0%A0%D0%9E%D0%99%D0%A1%D0%A2%D0%92%D0%9E.pdf\" target=\"_blank\" class=\"text-warning\">RESIDENTIONAL COMPAUD_K15-16-16A</a>",
+                "thumb": "@PROJECT_PATH@/assets/images/8-1080x1920-800x1422.jpg",
+                "image": "@PROJECT_PATH@/assets/images/8-1080x1920.jpg",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "caption": "<a href=\"assets/files/%D0%9F%D0%95%D0%A0%D0%9E%D0%92%D0%A1%D0%9A%D0%98%D0%99.pdf\" target=\"_blank\" class=\"text-warning\"><b>\"Комбинат бытового обслуживания с вспомогательными функциями\"</b></a><br>",
+                "thumb": "@PROJECT_PATH@/assets/images/enscape-2018-12-30-18-48-28-2000x1125-800x450.png",
+                "image": "@PROJECT_PATH@/assets/images/enscape-2018-12-30-18-48-28-2000x1125.png",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "caption": "<b><a href=\"assets/files/B_Kislovodsk_02.pdf\" target=\"_blank\" class=\"text-warning\">CONCERT XOLL</a></b>",
+                "thumb": "@PROJECT_PATH@/assets/images/enscape-2016-10-17-09-55-26-2000x1125-800x450.png",
+                "image": "@PROJECT_PATH@/assets/images/enscape-2016-10-17-09-55-26-2000x1125.png",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "caption": "<a href=\"assets/files/2018_БУКЛЕТ_15-16-16А.pdf\" target=\"_blank\">RESIDENTIONAL COMPAUD_K15-16-16A</a><br>",
+                "thumb": "@PROJECT_PATH@/assets/images/15-16-2-03-28-11-2017-1985x1404-800x566.png",
+                "image": "@PROJECT_PATH@/assets/images/15-16-2-03-28-11-2017-1985x1404.png",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "caption": "<a href=\"assets/files/ЖДОМ.pdf\" target=\"_blank\" class=\"text-warning\"><b>RESIDENTIONAL COMPAUD_FOR 140 APARTMENT</b></a>",
+                "thumb": "@PROJECT_PATH@/assets/images/enscape-2018-12-30-20-40-9-2000x1125-800x450.png",
+                "image": "@PROJECT_PATH@/assets/images/enscape-2018-12-30-20-40-9-2000x1125.png",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "caption": "<a href=\"assets/files/2018_БУКЛЕТ_18-18А.pdf\" target=\"_blank\" class=\"text-success\"><b>RESIDENTIONAL COMPAUD_K18-18A</b></a>",
+                "thumb": "@PROJECT_PATH@/assets/images/18-01-1920x1080-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/18-01-1920x1080.jpg",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "caption": "<b><a href=\"assets/files/FOK.pdf\" target=\"_blank\" class=\"text-warning\">FITN</a></b><a href=\"assets/files/FOK.pdf\" target=\"_blank\" class=\"text-warning\"><b>ES </b>CENTER</a>",
+                "thumb": "@PROJECT_PATH@/assets/images/4-5-2m-002-2000x1413-800x565.jpg",
+                "image": "@PROJECT_PATH@/assets/images/4-5-2m-002-2000x1413.jpg",
+                "active": false,
+                "alt": "",
+                "title": ""
+              }
+            ]
+          },
+          "articleLayout": true,
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "gallery2",
+          "_customCSS": ".mbr-gallery {background:#efefef!important;} ",
+          "_anchor": "gallery2-15",
+          "_styles": {
+            "SMALL": {
+              "color": "#faaf40",
+              "text-align": "right",
+              "font-size": "14px"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#efefef",
+              "text-align": "left"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "paddingTop": "2",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#27aae0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/TJF6zwpWWJo?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://youtu.be/TJF6zwpWWJo",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0"
+          },
+          "title": "<span style=\"font-weight: normal;\">2006-2015</span>",
+          "text": "PHYSICAL AND HEALTH-IMPROVING COMPLEX IN SOCHI (pilot project of the company in the implementation of BIM technologies). , Bim modeling mastering. Establishment in the BIM environment of the Section AR, AI and LET (Project, RD (LOD 400-500)) 12.2016-03.2016<br>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"http://mekhri.wixsite.com/yazm/projects-2008-2016\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-video mbr-iconfont mbr-iconfont-btn\"></span>START A JOURNEY</a>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-1j"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "fullWidth": false,
+            "noGutter": false,
+            "showText": true,
+            "showBullets": true,
+            "images": [
+              {
+                "caption": "<a href=\"assets/files/%D0%91_01_%D0%9A%D0%9E%D0%9C%D0%9F%D0%9B%D0%95%D0%9A%D0%A2.pdf\" target=\"_blank\" class=\"text-success\">RESIDENTIONAL COMPAUD_K15-16-16A</a>",
+                "thumb": "@PROJECT_PATH@/assets/images/komplekt-letnikovskaya-2000x1536-800x614.jpg",
+                "image": "@PROJECT_PATH@/assets/images/komplekt-letnikovskaya-2000x1536.jpg",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "caption": "RESIDENTIONAL COMPAUD PUSHKINO",
+                "thumb": "@PROJECT_PATH@/assets/images/pushkino-residentional-4-2000x3033-800x1213.jpg",
+                "image": "@PROJECT_PATH@/assets/images/pushkino-residentional-4-2000x3033.jpg",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "caption": "<a href=\"http://mekhri.wixsite.com/yazm/projects-2008-2016?lightbox=dataItem-is3d9jrz\" target=\"_blank\">4&nbsp;KORPUS</a>",
+                "thumb": "@PROJECT_PATH@/assets/images/04-4k-1791x1549-800x692.jpg",
+                "image": "@PROJECT_PATH@/assets/images/04-4k-1791x1549.jpg",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "caption": "<a href=\"assets/files/SMALL PROJCTS INDUSTRY(ABK).pdf\" target=\"_blank\">SMALL PROJCTS INDUSTRY(ABK)</a><br>",
+                "thumb": "@PROJECT_PATH@/assets/images/short-green-3d-4-2000x1143-800x457.jpg",
+                "image": "@PROJECT_PATH@/assets/images/short-green-3d-4-2000x1143.jpg",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "caption": "<a href=\"assets/files/Б_01_Нововоганьковская.pdf\" target=\"_blank\">OFFICE NOVOVOGANKOVSKAYA</a>",
+                "thumb": "@PROJECT_PATH@/assets/images/novovogankovskaya-01-3-2000x1622-800x649.jpg",
+                "image": "@PROJECT_PATH@/assets/images/novovogankovskaya-01-3-2000x1622.jpg",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "caption": "<a href=\"assets/files/WORK%202003-2007.pdf\" target=\"_blank\">WORKS 2001-2006</a>",
+                "thumb": "@PROJECT_PATH@/assets/images/0705-11003-15-nagatinskaya-river-park-model-1-2000x1467-800x587.png",
+                "image": "@PROJECT_PATH@/assets/images/0705-11003-15-nagatinskaya-river-park-model-1-2000x1467.png",
+                "active": true,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "caption": "<a href=\"http://mekhri.wixsite.com/yazm/projects-2008-2016?lightbox=i0v5e\" target=\"_blank\" class=\"text-success\">PARK DOLGOPRUDNIY</a>",
+                "thumb": "@PROJECT_PATH@/assets/images/dolgoprudniy-park-1-variant-2000x1177-800x471.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dolgoprudniy-park-1-variant-2000x1177.jpg",
+                "active": false,
+                "alt": "",
+                "title": ""
+              }
+            ]
+          },
+          "articleLayout": true,
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "gallery2",
+          "_styles": {
+            "SMALL": {
+              "color": "#faaf40",
+              "text-align": "right",
+              "font-size": "14px"
+            },
+            "A": {
+              "color": "#faaf40"
+            }
+          },
+          "_customCSS": ".mbr-gallery {background:#efefef!important;} ",
+          "_anchor": "gallery2-1m"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-article P": {
+              "text-align": "left"
+            },
+            ".mbr-article BLOCKQUOTE": {
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+            },
+            ".mbr-header .mbr-header__text SPAN": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-20181026-142824-2000x1500.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#28324e",
+            "overlayOpacity": "0.4"
+          },
+          "title": "<span style=\"font-weight: normal;\">/</span>",
+          "text": "<blockquote>/</blockquote>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Тема"
+          ],
+          "meta": "",
+          "_name": "content5",
+          "_customCSS": ".mbr-article { text-align: justify; }",
+          "_anchor": "content5-1f"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "fullWidth": false,
+            "noGutter": false,
+            "showText": true,
+            "showBullets": true,
+            "images": [
+              {
+                "caption": "INTERIOR COMMERCE AND OFFICE CENTER_\"4 KORPUS\"",
+                "thumb": "@PROJECT_PATH@/assets/images/001-1000x750-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/001-1000x750.jpg",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "caption": "<a href=\"assets/files/BI_CBER.pdf\" target=\"_blank\" class=\"text-warning\">RESIDENTIONAL COMPAUD_K15-16-16A</a>",
+                "thumb": "@PROJECT_PATH@/assets/images/my-version-megacod-1024x674-800x527.jpg",
+                "image": "@PROJECT_PATH@/assets/images/my-version-megacod-1024x674.jpg",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "caption": "<a href=\"assets/files/Б_15_БЛАГОУСТРОЙСТВО.pdf\" target=\"_blank\">RESIDENTIONAL COMPAUD_K15-16-16A</a>",
+                "thumb": "@PROJECT_PATH@/assets/images/8-1080x1920-800x1422.jpg",
+                "image": "@PROJECT_PATH@/assets/images/8-1080x1920.jpg",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "caption": "<a href=\"assets/files/1_BI_Kislovodck.pdf\" target=\"_blank\">INTERIOR COMMERCE AND OFFICE CENTER</a>",
+                "thumb": "@PROJECT_PATH@/assets/images/060-12-11-2-2000x1413-800x565.jpg",
+                "image": "@PROJECT_PATH@/assets/images/060-12-11-2-2000x1413.jpg",
+                "active": true,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "caption": "<a href=\"assets/files/BI_18_interior.pdf\" target=\"_blank\" class=\"text-warning\">E</a>NTRANCE GROUP K 18-18A RESIDENTIAL COMPLEX",
+                "thumb": "@PROJECT_PATH@/assets/images/2-1-2000x1289-800x516.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2-1-2000x1289.jpg",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "caption": "<a href=\"assets/files/Б_01_Нововоганьковская.pdf\" target=\"_blank\" class=\"text-warning\">I</a>NTERIOR FURNITURE CENTER",
+                "thumb": "@PROJECT_PATH@/assets/images/v-12-08-atriym-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/v-12-08-atriym-2000x1500.jpg",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "caption": "<a href=\"assets/files/BI_18_interior.pdf\" target=\"_blank\">ENTRANCE GROUP K 18-18A RESIDENTIAL COMPLEX</a>",
+                "thumb": "@PROJECT_PATH@/assets/images/3.04-24.10.2017-2000x1367-800x547.png",
+                "image": "@PROJECT_PATH@/assets/images/3.04-24.10.2017-2000x1367.png",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "caption": "<a href=\"assets/files/BI_CBER.pdf\" target=\"_blank\">COMMERCIAL INTERIOR&nbsp;</a>",
+                "thumb": "@PROJECT_PATH@/assets/images/2014-1-23-part-12-2011-i-sberbank-sb-11-1-2000x1556-800x622.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2014-1-23-part-12-2011-i-sberbank-sb-11-1-2000x1556.jpg",
+                "active": false,
+                "alt": "",
+                "title": ""
+              }
+            ]
+          },
+          "articleLayout": true,
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "gallery2",
+          "_styles": {
+            "SMALL": {
+              "color": "#faaf40",
+              "text-align": "right",
+              "font-size": "14px"
+            }
+          },
+          "_customCSS": ".mbr-gallery {background:#efefef!important;} ",
+          "_anchor": "gallery2-1n"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-article P": {
+              "text-align": "left"
+            },
+            ".mbr-article BLOCKQUOTE": {
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+            },
+            ".mbr-header .mbr-header__text SPAN": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": true,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/bridge-2000x1125-68.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#28324e",
+            "overlayOpacity": "0.8"
+          },
+          "title": "<span style=\"font-weight: normal;\">/////////////////////////////////</span>",
+          "text": "<blockquote>///////////////////////////////////////////////////////////////////////////////////////////////////////</blockquote>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Тема"
+          ],
+          "meta": "",
+          "_name": "content5",
+          "_customCSS": ".mbr-article { text-align: justify; }",
+          "_anchor": "content5-1g"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#efefef"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#27aae0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "на этапе разработки",
+          "text": "на этапе разработки",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-video mbr-iconfont mbr-iconfont-btn\"></span>START A JOURNEY</a>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-1k"
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "60",
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#9e9c9c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#7c706b",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/tpbRGREtJJE",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": "on",
+              "loop": false
+            }
+          },
+          "title": "VIDEO на этапе разработки",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>/</p>",
+          "button": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"assets/files/Б_01_Перовский.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">*</a>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-1o"
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "60",
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#9e9c9c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/TJF6zwpWWJo",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": "on",
+              "loop": false
+            }
+          },
+          "title": "VIDEO EMBED",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>PHYSICAL AND HEALTH-IMPROVING COMPLEX IN SOCHI (pilot project of the company in the implementation of BIM technologies). , Bim modeling mastering. Establishment in the BIM environment of the Section AR, AI and LET (Project, RD (LOD 400-500)) 12.2016-03.2016</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-photos mbr-iconfont mbr-iconfont-btn\"></span>LEARN MORE</a>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-1q"
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": "60",
+            "paddingTop": "4",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#9e9c9c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/EAJjYpAf6EA",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": "on",
+              "loop": false
+            }
+          },
+          "title": "VIDEO на этапе разработки",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p><b>VIDEO на этапе разработки</b></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"assets/files/Б_01_Перовский.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-1r"
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "60",
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#9e9c9c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#7c706b",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/tpbRGREtJJE",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": "on",
+              "loop": false
+            }
+          },
+          "title": "VIDEO на этапе разработки",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>/</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://mekhri.wixsite.com/meatash\" data-toolbar=\"-mbrBtnMove\">**t</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"assets/files/Б_01_Перовский.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">***</a>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-1p"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3C3C3C",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "<a href=\"http://mekhri.wixsite.com/meatash\">PRE MADE BLOCKS</a>",
+          "text": "<br><br>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"http://mekhri.wixsite.com/meatash\" data-toolbar=\"-mbrBtnMove\">START A JOURNEY</a>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-1"
+        },
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>",
+          "_tags": [
+            "Тема"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "items": "  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"assets/files/Язмурадова Мери(1-2018).pdf\" target=\"_blank\">ABOUT</a></li> ",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/2013foto-96x128.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"assets/files/%D0%AF%D0%B7%D0%BC%D1%83%D1%80%D0%B0%D0%B4%D0%BE%D0%B2%D0%B0%20%D0%9C%D0%B5%D1%80%D0%B8(1-2018).pdf\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">YAZMURADOVA MEKHRI</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-2"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-265x88.jpg",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>\n1234 Street Name<br>\nCity, Moscow",
+          "text2": "<strong><a href=\"http://mekhri.wixsite.com/meatash\">CONTACTS</a></strong><br><a href=\"http://mekhri.wixsite.com/meatash\">\nEmail: mekhri.mary@gmail.com</a><br><a href=\"http://mekhri.wixsite.com/meatash\">\nPhone: +7 (968) 5950221</a><br><a href=\"http://mekhri.wixsite.com/meatash\">\nPhone: +7 (980) 0116974</a>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong><a href=\"http://mekhri.wixsite.com/meatash\" target=\"_blank\">LINKS</a></strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"mbr-contacts__link text-gray\" href=\"http://mekhri.wixsite.com/meatash\" target=\"_blank\">Website builder</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"http://mekhri.wixsite.com/meatash\" target=\"_blank\">Download for Windows</a></li><li><br></li></ul>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-4",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showName": true,
+            "showBio": true,
+            "count": 3,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "header": "Ключевые навыки",
+          "items": [
+            {
+              "authorName": ".",
+              "authorBio": ".",
+              "text": "<p class=\"mbr-reviews__p\">- Защита проекта в вышестоящих организациях и органах экспертизы.\n</p><p class=\"mbr-reviews__p\">-Квалификационный аттестат.\n</p><p class=\"mbr-reviews__p\">Приказ Минстрой России от 14.08,2017\n</p><p class=\"mbr-reviews__p\">№11227/пр., Эксперт в области проектной документации,\n</p><p class=\"mbr-reviews__p\">&nbsp; &nbsp;Объемно-планировочные и архитектурные решения(2.1.2)</p><p class=\"mbr-reviews__p\">\n</p><p class=\"mbr-reviews__p\">-Свободный английский\n</p><p class=\"mbr-reviews__p\">- Осуществление авторского надзора за строительством.</p>"
+            },
+            {
+              "authorName": ".",
+              "authorBio": ".",
+              "text": "<p class=\"mbr-reviews__p\">- Навыки БИМ менеджера, координатора, мастеринг-моделирование на высоком уровне Revit, самостоятельная разработка БИМ стандарта для организации и для проекта последние 3-5 лет</p>"
+            },
+            {
+              "authorName": ".",
+              "authorBio": ".",
+              "text": "<p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\">- Участие в составление задания на проектирование, в анализе исходных данных и предварительных решений.\n</p><p class=\"mbr-reviews__p\">- Сопровождение проектной и рабочей документации на всех этапах.\n</p><p class=\"mbr-reviews__p\">Формирование заданий субподрядным организациям на выполнение работ и обеспечение этих организаций необходимыми исходными данными.\n</p><p class=\"mbr-reviews__p\">- Защита проекта в вышестоящих организациях и органах экспертизы.\n</p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\"><br></p>"
+            }
+          ],
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-f",
+          "testimonial": [
+            {
+              "authorName": ".",
+              "authorBio": ".",
+              "text": "<p class=\"mbr-reviews__p\">- Защита проекта в вышестоящих организациях и органах экспертизы.\n</p><p class=\"mbr-reviews__p\">-Квалификационный аттестат.\n</p><p class=\"mbr-reviews__p\">Приказ Минстрой России от 14.08,2017\n</p><p class=\"mbr-reviews__p\">№11227/пр., Эксперт в области проектной документации,\n</p><p class=\"mbr-reviews__p\">&nbsp; &nbsp;Объемно-планировочные и архитектурные решения(2.1.2)</p><p class=\"mbr-reviews__p\">\n</p><p class=\"mbr-reviews__p\">-Свободный английский\n</p><p class=\"mbr-reviews__p\">- Осуществление авторского надзора за строительством.</p>"
+            },
+            {
+              "authorName": ".",
+              "authorBio": ".",
+              "text": "<p class=\"mbr-reviews__p\">- Навыки БИМ менеджера, координатора, мастеринг-моделирование на высоком уровне Revit, самостоятельная разработка БИМ стандарта для организации и для проекта последние 3-5 лет</p>"
+            },
+            {
+              "authorName": ".",
+              "authorBio": ".",
+              "text": "<p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\">- Участие в составление задания на проектирование, в анализе исходных данных и предварительных решений.\n</p><p class=\"mbr-reviews__p\">- Сопровождение проектной и рабочей документации на всех этапах.\n</p><p class=\"mbr-reviews__p\">Формирование заданий субподрядным организациям на выполнение работ и обеспечение этих организаций необходимыми исходными данными.\n</p><p class=\"mbr-reviews__p\">- Защита проекта в вышестоящих организациях и органах экспертизы.\n</p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\"><br></p>"
+            }
+          ],
+          "_styles": {
+            ".mbr-reviews__text P": {
+              "text-align": "center",
+              "font-size": "14px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#f0f0f0",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "FOLLOW US",
+          "icons": "<a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-googleplus\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-youtube\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" href=\" architecture space.html\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-pinterest\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.ru/mkad2011/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-pinterest\"></i></a>  <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-behance\" title=\"Behance\" target=\"_blank\" href=\"https://www.behance.net/Mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-behance\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-tumblr\" title=\"Tumblr\" href=\" architecture space.html\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-linkedin\" title=\"LinkedIn\" href=\"http://mekhri.wixsite.com/meatash\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-android\" title=\"Google Play\" href=\"https://play.google.com/store/apps\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-android\"></i></a>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-g"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-article P": {
+              "text-align": "left"
+            },
+            ".mbr-article BLOCKQUOTE": {
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+            },
+            ".mbr-header .mbr-header__text SPAN": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "2",
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/bridge-2000x1125-68.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#28324e",
+            "overlayOpacity": "0.8"
+          },
+          "title": "<span style=\"font-weight: normal;\">/</span>",
+          "text": "<blockquote>///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////</blockquote>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Тема"
+          ],
+          "meta": "",
+          "_name": "content5",
+          "_customCSS": ".mbr-article { text-align: justify; }",
+          "_anchor": "content5-19"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2018 Company MDY. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1i"
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "meta_descr": "Website Creator Description",
+        "title": "Page 1",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>",
+          "_tags": [
+            "Тема"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "items": "  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"assets/files/Язмурадова Мери(1-2018).pdf\" target=\"_blank\">ABOUT</a></li> ",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/2013foto-96x128.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"assets/files/%D0%AF%D0%B7%D0%BC%D1%83%D1%80%D0%B0%D0%B4%D0%BE%D0%B2%D0%B0%20%D0%9C%D0%B5%D1%80%D0%B8(1-2018).pdf\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">YAZMURADOVA MEKHRI</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-17"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-265x88.jpg",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>\n1234 Street Name<br>\nCity, Moscow",
+          "text2": "<strong><a href=\"http://mekhri.wixsite.com/meatash\">CONTACTS</a></strong><br><a href=\"http://mekhri.wixsite.com/meatash\">\nEmail: mekhri.mary@gmail.com</a><br><a href=\"http://mekhri.wixsite.com/meatash\">\nPhone: +7 (968) 5950221</a><br><a href=\"http://mekhri.wixsite.com/meatash\">\nPhone: +7 (980) 0116974</a>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong><a href=\"http://mekhri.wixsite.com/meatash\" target=\"_blank\">LINKS</a></strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"mbr-contacts__link text-gray\" href=\"http://mekhri.wixsite.com/meatash\" target=\"_blank\">Website builder</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"http://mekhri.wixsite.com/meatash\" target=\"_blank\">Download for Windows</a></li><li><br></li></ul>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-18",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "meta_descr": "Website Creator Description",
+        "title": "Page 2",
+        "order": 2
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>",
+          "_tags": [
+            "Тема"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "items": "  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"assets/files/Язмурадова Мери(1-2018).pdf\" target=\"_blank\">ABOUT</a></li> ",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/2013foto-96x128.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"assets/files/%D0%AF%D0%B7%D0%BC%D1%83%D1%80%D0%B0%D0%B4%D0%BE%D0%B2%D0%B0%20%D0%9C%D0%B5%D1%80%D0%B8(1-2018).pdf\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">YAZMURADOVA MEKHRI</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-19"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-265x88.jpg",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>\n1234 Street Name<br>\nCity, Moscow",
+          "text2": "<strong><a href=\"http://mekhri.wixsite.com/meatash\">CONTACTS</a></strong><br><a href=\"http://mekhri.wixsite.com/meatash\">\nEmail: mekhri.mary@gmail.com</a><br><a href=\"http://mekhri.wixsite.com/meatash\">\nPhone: +7 (968) 5950221</a><br><a href=\"http://mekhri.wixsite.com/meatash\">\nPhone: +7 (980) 0116974</a>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong><a href=\"http://mekhri.wixsite.com/meatash\" target=\"_blank\">LINKS</a></strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"mbr-contacts__link text-gray\" href=\"http://mekhri.wixsite.com/meatash\" target=\"_blank\">Website builder</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"http://mekhri.wixsite.com/meatash\" target=\"_blank\">Download for Windows</a></li><li><br></li></ul>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-1a",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "meta_descr": "Website Creator Description",
+        "title": "Page 3",
+        "order": 3
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>",
+          "_tags": [
+            "Тема"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "items": "  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"assets/files/Язмурадова Мери(1-2018).pdf\" target=\"_blank\">ABOUT</a></li> ",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/2013foto-96x128.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"assets/files/%D0%AF%D0%B7%D0%BC%D1%83%D1%80%D0%B0%D0%B4%D0%BE%D0%B2%D0%B0%20%D0%9C%D0%B5%D1%80%D0%B8(1-2018).pdf\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">YAZMURADOVA MEKHRI</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1b"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-265x88.jpg",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>\n1234 Street Name<br>\nCity, Moscow",
+          "text2": "<strong><a href=\"http://mekhri.wixsite.com/meatash\">CONTACTS</a></strong><br><a href=\"http://mekhri.wixsite.com/meatash\">\nEmail: mekhri.mary@gmail.com</a><br><a href=\"http://mekhri.wixsite.com/meatash\">\nPhone: +7 (968) 5950221</a><br><a href=\"http://mekhri.wixsite.com/meatash\">\nPhone: +7 (980) 0116974</a>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong><a href=\"http://mekhri.wixsite.com/meatash\" target=\"_blank\">LINKS</a></strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"mbr-contacts__link text-gray\" href=\"http://mekhri.wixsite.com/meatash\" target=\"_blank\">Website builder</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"http://mekhri.wixsite.com/meatash\" target=\"_blank\">Download for Windows</a></li><li><br></li></ul>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-1c",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
