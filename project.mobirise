@@ -23,12 +23,7 @@
     "noImageResize": "",
     "google-analytics": "",
     "siteUrl": "undefined",
-    "screenshot": "screenshot.png",
-    "ftpLocation": "ftp://mkad20fz@mkad20fz.beget.tech:21",
-    "publishType": "github",
-    "publishFtpPath": "",
-    "gitHubName": "m-archi",
-    "gitHubPath": ""
+    "screenshot": "screenshot.png"
   },
   "pages": {
     " architecture space.html": {
