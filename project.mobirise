@@ -45,7 +45,7 @@
             "color": "#2c2c2c",
             "hamburgerColor": "#ffffff"
           },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\" data-toolbar=\"-mbrBtnMove\"></a></li>",
           "_tags": [
             "Тема"
           ],
@@ -148,7 +148,7 @@
             "color": "#2c2c2c",
             "hamburgerColor": "#ffffff"
           },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\" data-toolbar=\"-mbrBtnMove\"></a></li>",
           "_tags": [
             "Тема"
           ],
@@ -251,7 +251,7 @@
             "color": "#2c2c2c",
             "hamburgerColor": "#ffffff"
           },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\" data-toolbar=\"-mbrBtnMove\"></a></li>",
           "_tags": [
             "Тема"
           ],
@@ -398,16 +398,16 @@
                 "showTitle": true,
                 "title": "<a href=\"assets/files/B_Dolgoprudniy.pdf\" target=\"_blank\" class=\"text-warning\">Парк в Долгопрудном</a>",
                 "contentAlign": "right",
-                "text": "<a href=\"assets/files/B_Dolgoprudniy.pdf\" target=\"_blank\">Парк в Долгопрудном\n</a><br><a href=\"assets/files/B_Dolgoprudniy.pdf\" target=\"_blank\">Благоустройство береговой зоны Канала им. Москвы, проходящего по территории городского\n</a><br><a href=\"assets/files/B_Dolgoprudniy.pdf\" target=\"_blank\">округа Долгопрудный, Московской области\n</a><br><a href=\"assets/files/B_Dolgoprudniy.pdf\" target=\"_blank\">Обязанности: Презентация_\n</a><br><a href=\"assets/files/B_Dolgoprudniy.pdf\" target=\"_blank\">Эскизное предложение входной группы и главной аллеи; выпуск презентации_Revit BIM LOD 200,Photoshop&nbsp;</a><br>",
+                "text": "<a href=\"assets/files/B_Dolgoprudniy.pdf\" target=\"_blank\" class=\"text-black\">Парк в Долгопрудном\n</a><br><a href=\"assets/files/B_Dolgoprudniy.pdf\" target=\"_blank\">Благоустройство береговой зоны Канала им. Москвы, проходящего по территории городского\n</a><br><a href=\"assets/files/B_Dolgoprudniy.pdf\" target=\"_blank\">округа Долгопрудный, Московской области\n</a><br><a href=\"assets/files/B_Dolgoprudniy.pdf\" target=\"_blank\">Обязанности: Презентация_\n</a><br><a href=\"assets/files/B_Dolgoprudniy.pdf\" target=\"_blank\">Эскизное предложение входной группы и главной аллеи; выпуск презентации_Revit BIM LOD 200,Photoshop&nbsp;</a><br>",
                 "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"assets/files/B_Dolgoprudniy.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"></a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/enscape-2018-12-30-18-59-3-2000x1125.png",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
-                "title": "<span style=\"font-weight: normal;\">\"Комбинат бытового обслуживания свспомогательными функциями\"</span>",
+                "title": "\"Комбинат бытового обслуживания свспомогательными функциями\"",
                 "contentAlign": "right",
                 "text": "ДРАФТ ПРЕЗЕНТАЦИИ.\n<br>Архитектурно-градостроительное решение объекта капитального строительства\n<br>концептуальное моделирование(мастеринг), координация,..на этапе согласования АГР и ПРОЕКТ.)",
                 "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a>"
@@ -429,9 +429,9 @@
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
-                "title": ".",
+                "title": "МегаЦОД",
                 "contentAlign": "right",
-                "text": "&nbsp;Cитуационный центр Единого центра обработки данных\n<br>(МегаЦОД)",
+                "text": "&nbsp;Cитуационный центр Единого центра обработки данных\n<br><br>",
                 "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a>"
               },
               {
@@ -462,7 +462,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/02-4k-2000x968.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -479,7 +479,7 @@
                 "showTitle": true,
                 "title": "<a href=\"assets/files/1- 2 квартал.pdf\" target=\"_blank\">Южная зона квартала \n</a><div><a href=\"assets/files/1- 2 квартал.pdf\" target=\"_blank\">1-2 района Фили-Давыдково</a></div>",
                 "contentAlign": "right",
-                "text": "<br><a href=\"assets/files/1- 2 квартал.pdf\" target=\"_blank\">Данные параметры являются возможными для строительства Южной зоны квартала 1-2 района Фили-Давыдково в соответствии с действующей градостроительной документацией, с учетом имеющих градостроительных ограничений и городских программ.\n</a><br><a href=\"assets/files/1- 2 квартал.pdf\" target=\"_blank\">«Квартал Триумфальный» – проект уникальной комплексной застройки жилых кварталов современной Москвы, в состав которого входит ЖК «Три-умфальный», современный жилой комплекс класса «бизнес+». ЖК «Триум-фальный» — это не только квартира, это стиль жизни и среда обитания.\n</a><br><a href=\"assets/files/1- 2 квартал.pdf\" target=\"_blank\">Плотность застройки 25 000 кв. м/га\n</a><br><a href=\"assets/files/1- 2 квартал.pdf\" target=\"_blank\">Высота 55 м\n</a><br><a href=\"assets/files/1- 2 квартал.pdf\" target=\"_blank\">Процент застроенности\n</a><br><a href=\"assets/files/1- 2 квартал.pdf\" target=\"_blank\">Участок 3 (№49 по ППМ №168-ПП от 07.09.2004) Участок 4 (№29 и 35 по ППМ №618-ПП от 7.09.2004) Участок 6 (№37 по ППМ №618-ПП от 7.09.2004)\n</a><br><a href=\"assets/files/1- 2 квартал.pdf\" target=\"_blank\">\n</a><br><a href=\"assets/files/1- 2 квартал.pdf\" target=\"_blank\">концептуальное моделирование(мастеринг), координация).</a><br>",
+                "text": "<br><a href=\"assets/files/1- 2 квартал.pdf\" target=\"_blank\" class=\"text-black\">Данные параметры являются возможными для строительства Южной зоны квартала 1-2 района Фили-Давыдково в соответствии с действующей градостроительной документацией, с учетом имеющих градостроительных ограничений и городских программ.\n</a><br><a href=\"assets/files/1- 2 квартал.pdf\" target=\"_blank\" class=\"text-black\">«Квартал Триумфальный» – проект уникальной комплексной застройки жилых кварталов современной Москвы, в состав которого входит ЖК «Три-умфальный», современный жилой комплекс класса «бизнес+». ЖК «Триум-фальный» — это не только квартира, это стиль жизни и среда обитания.\n</a><br><a href=\"assets/files/1- 2 квартал.pdf\" target=\"_blank\" class=\"text-black\">Плотность застройки 25 000 кв. м/га\n</a><br><a href=\"assets/files/1- 2 квартал.pdf\" target=\"_blank\" class=\"text-black\">Высота 55 м\n</a><br><a href=\"assets/files/1- 2 квартал.pdf\" target=\"_blank\" class=\"text-black\">Процент застроенности\n</a><br><a href=\"assets/files/1- 2 квартал.pdf\" target=\"_blank\" class=\"text-black\">Участок 3 (№49 по ППМ №168-ПП от 07.09.2004) Участок 4 (№29 и 35 по ППМ №618-ПП от 7.09.2004) Участок 6 (№37 по ППМ №618-ПП от 7.09.2004)\n</a><br><a href=\"assets/files/1- 2 квартал.pdf\" target=\"_blank\">\n</a><br><a href=\"assets/files/1- 2 квартал.pdf\" target=\"_blank\" class=\"text-black\">концептуальное моделирование(мастеринг), координация).</a><br>",
                 "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"assets/files/1-%202%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"></a>"
               }
             ]
@@ -492,13 +492,13 @@
           "_anchor": "slider-8",
           "_styles": {
             "H1": {
-              "color": "#e6f608",
+              "color": "#fac51c",
               "font-size": "25px",
               "text-align": "right"
             },
             "P": {
               "text-align": "right",
-              "color": "#e6f608",
+              "color": "#fac51c",
               "font-family": "'Roboto Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
               "font-size": "16px"
@@ -508,6 +508,9 @@
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "color": "#e6f608"
+            },
+            "A": {
+              "color": "#000000"
             }
           }
         },
@@ -1016,8 +1019,8 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "на этапе разработки",
-          "text": "на этапе разработки",
+          "title": "/",
+          "text": "/",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-video mbr-iconfont mbr-iconfont-btn\"></span>START A JOURNEY</a>",
           "_tags": [
             "Тема"
@@ -1314,7 +1317,7 @@
             "color": "#2c2c2c",
             "hamburgerColor": "#ffffff"
           },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\" data-toolbar=\"-mbrBtnMove\"></a></li>",
           "_tags": [
             "Тема"
           ],
