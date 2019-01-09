@@ -561,8 +561,8 @@
             "overlayColor": "#27aae0",
             "overlayOpacity": "0.8"
           },
-          "title": "<br><span style=\"font-weight: normal;\">2015-2018</span>",
-          "text": "<blockquote>//.</blockquote>",
+          "title": "<br><span style=\"font-weight: normal;\">1998-2018</span>",
+          "text": "<blockquote><p>\"ENERGOPROJEKT\" Holding Company.Сербия (Югославия) представительство в г. Москве, Ташкент (1998-2003)</p><p>ЗАО\"CK Строймонтаж\" - /\"Mirax group\"/</p><p>ООО \"ам Атриум\",ООО\" </p><p>АДМ СпецРТ\", ООО</p><p> «СтройПроект» «PROJECT MANAGEMENT»,</p><p>ЗАО\"Альянстранcстрой\" (служба заказчика)</p></blockquote>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Тема"
@@ -675,8 +675,8 @@
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "paddingTop": "2",
-            "paddingBottom": "3",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": false,
@@ -693,7 +693,7 @@
             "overlayColor": "#222",
             "overlayOpacity": "0"
           },
-          "title": "<span style=\"font-weight: normal;\">2006-2015</span>",
+          "title": "FITNES CENTER",
           "text": "PHYSICAL AND HEALTH-IMPROVING COMPLEX IN SOCHI (pilot project of the company in the implementation of BIM technologies). , Bim modeling mastering. Establishment in the BIM environment of the Section AR, AI and LET (Project, RD (LOD 400-500)) 12.2016-03.2016<br>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"http://mekhri.wixsite.com/yazm/projects-2008-2016\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-video mbr-iconfont mbr-iconfont-btn\"></span>START A JOURNEY</a>",
           "_tags": [
@@ -833,8 +833,8 @@
             "overlayColor": "#28324e",
             "overlayOpacity": "0.4"
           },
-          "title": "<span style=\"font-weight: normal;\">/</span>",
-          "text": "<blockquote>/</blockquote>",
+          "title": "",
+          "text": "",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Тема"
@@ -946,8 +946,8 @@
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "paddingTop": 2,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -961,8 +961,8 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "/",
-          "text": "/",
+          "title": "",
+          "text": "",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-video mbr-iconfont mbr-iconfont-btn\"></span>START A JOURNEY</a>",
           "_tags": [
             "Тема"
